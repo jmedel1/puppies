@@ -9,6 +9,11 @@ function PuppyList() {
         {id: 4, name: 'Pug', breed: 'Pug Breed', image:'https://patchpuppy.com/wp-content/uploads/2023/01/1.HowManyPupsCanAPugHave.jpg'},
         {id: 5, name: 'English Bulldog', breed: 'English Bulldog Breed', image: 'https://i0.wp.com/cazaresbulldogs.com/wp-content/uploads/2022/07/DSC_0384-scaled.jpg?fit=2560%2C1702&ssl=1'},
     ];
+
+    const imgStyle = {
+        width: '600px',
+        height: '400px',
+    };
     
     return (
         <div>
@@ -18,7 +23,7 @@ function PuppyList() {
                 <li key={puppy.id}>
                     <Link to={`/puppy/${puppy.id}`}>
                         <h3>{puppy.name}</h3>
-                        <img src={puppy.image} alt={puppy.name} />
+                        <img src={puppy.image} alt={puppy.name} style={imgStyle} />
                         </Link>
                         <p>{puppy.breed}</p>
                         </li>

@@ -39,6 +39,10 @@ function PuppyDetails() {
 
     const puppy = puppyData[id];
 
+    if (!puppy) {
+        return <div>Puppy not found!</div>;
+    }
+
     return (
         <div>
             <h2>Puppy Details</h2>
