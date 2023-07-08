@@ -13,7 +13,10 @@ function PuppyList() {
     return (
         <div>
             <h2>Puppy List</h2>
-            
+            {puppies.map((puppy, index) => (
+                <Puppy key={index}
+                name={puppy.name} breed={puppy.breed} image={puppy.image} />
+            ))}
         </div>
-    )
+    );
 }
