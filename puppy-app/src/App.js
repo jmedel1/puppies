@@ -1,7 +1,8 @@
 import React from "react";
+import { BrowserRouter } from "react-router-dom";
+import Navbar from "./Navbar";
 import PuppyList from "./PuppyList";
 import PuppyDetails from "./PuppyDetails";
-import Puppy from "./Puppy";
 
 
 function App() {
