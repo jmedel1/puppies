@@ -1,4 +1,7 @@
 import React from "react";
+import PuppyList from "../PuppyList";
+import PuppyDetails from "../PuppyDetails";
+
 
 function App() {
   return (
