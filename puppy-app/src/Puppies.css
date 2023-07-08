@@ -2,3 +2,7 @@ ul.paw-print-list {
     list-style-type: none;
 }
 
+ul.paw-print-list li {
+    position: relative;
+    padding-left: 30px;
+}
