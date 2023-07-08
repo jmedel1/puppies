@@ -20,3 +20,5 @@ function PuppyList() {
         </div>
     );
 }
+
+export default PuppyList;
