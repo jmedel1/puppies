@@ -13,11 +13,17 @@ function PuppyList() {
     return (
         <div>
             <h2>Puppy List</h2>
-            {puppies.map((puppy, index) => (
-                <Puppy key={index}
-                name={puppy.name} breed={puppy.breed} image={puppy.image} />
+            <ul>
+            {puppies.map((puppy) => (
+                <li key={puppy.id}>
+                    <Link to={`/puppy/${puppy.id}`}>
+                        <h3>{puppy.name}</h3>
+                        </Link>
+                        <p>{puppy.breed}</p>
+                        </li>
             ))}
-        </div>
+            </ul>
+         </div>
     );
 }
 
