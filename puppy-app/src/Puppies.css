@@ -6,3 +6,15 @@ ul.paw-print-list li {
     position: relative;
     padding-left: 30px;
 }
+
+ul.paw-print-list li::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(-100%, -50%);
+    width: 20px;
+    height: 20px;
+    background-image: url('https://thenounproject.com/api/private/icons/957037/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0');
+    background-size: cover;
+}
