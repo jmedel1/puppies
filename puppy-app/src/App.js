@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Router } from "react-router-dom";
+import { BrowserRouter, Route, Router, Routes } from "react-router-dom";
 import Navbar from "./Navbar";
 import PuppyList from "./PuppyList";
 import PuppyDetails from "./PuppyDetails";
@@ -19,10 +19,12 @@ return (
   <BrowserRouter>
     <div>
       <Navbar />
-
+      
+    <Routes>
       <Route path="/" exact component={Home} />
       <Route path="/puppies" component={PuppyList} />
       <Route path="/puppy/:id" component={PuppyDetails} />
+      </Routes>
     </div>
   </BrowserRouter>
 );
