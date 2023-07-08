@@ -9,4 +9,11 @@ function PuppyList() {
         {name: 'Pug', breed: 'Pug Breed', image:'https://patchpuppy.com/wp-content/uploads/2023/01/1.HowManyPupsCanAPugHave.jpg'},
         {name: 'English Bulldog', breed: 'English Bulldog Breed', image: 'https://i0.wp.com/cazaresbulldogs.com/wp-content/uploads/2022/07/DSC_0384-scaled.jpg?fit=2560%2C1702&ssl=1'},
     ];
+    
+    return (
+        <div>
+            <h2>Puppy List</h2>
+            
+        </div>
+    )
 }

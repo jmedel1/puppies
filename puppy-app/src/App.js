@@ -10,7 +10,7 @@ function App() {
           <li>Boston Terrier</li>
           <li>Pekingese</li>
           <li>Pug</li>
-          <li>Bulldog</li>
+          <li> English Bulldog</li>
         </ul>
     </div>
   );
