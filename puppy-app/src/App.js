@@ -5,6 +5,13 @@ function App() {
     <div>
       <h1>Welcome to Puppy Power</h1>
       <p>Check out these adorable puppies:</p>
+        <ul>
+          <li>French Bulldog</li>
+          <li>Boston Terrier</li>
+          <li>Pekingese</li>
+          <li>Pug</li>
+          <li>Bulldog</li>
+        </ul>
     </div>
   )
 }
