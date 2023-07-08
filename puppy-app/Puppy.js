@@ -9,3 +9,5 @@ function Puppy({ name, breed, image }) {
         </div>
     );
 }
+
+export default Puppy;
