@@ -13,5 +13,7 @@ function App() {
           <li>Bulldog</li>
         </ul>
     </div>
-  )
+  );
 }
+
+export default App;
