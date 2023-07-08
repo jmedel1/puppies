@@ -6,7 +6,7 @@ function PuppyDetails() {
 
     const puppy = {
         id,
-        name: 'French Bulldog'
+        name: 'French Bulldog',
         breed: 'French Bulldog Breed',
         description: 'French Bulldogs are known for their affectionate nature and adorable bat-like ears.',
     };
