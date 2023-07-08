@@ -1,5 +1,6 @@
 import React from "react";
 import PuppyList from "./PuppyList";
+import PuppyDetails from "./PuppyDetails";
 import Puppy from "./Puppy";
 
 
