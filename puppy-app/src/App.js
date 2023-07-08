@@ -9,6 +9,7 @@ const Home = () => {
     <div>
       <h2>Home</h2>
       <p>Welcome to Puppy Power!</p>
+      <p>Discover the world of adorable puppies and find your perfect companion.</p>
     </div>
   );
 };
