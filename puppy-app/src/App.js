@@ -1,6 +1,6 @@
 import React from "react";
-import PuppyList from "../PuppyList";
-import PuppyDetails from "../PuppyDetails";
+import PuppyList from "./PuppyList";
+import Puppy from "./Puppy";
 
 
 function App() {
