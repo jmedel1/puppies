@@ -18,6 +18,7 @@ function PuppyList() {
                 <li key={puppy.id}>
                     <Link to={`/puppy/${puppy.id}`}>
                         <h3>{puppy.name}</h3>
+                        <img src={puppy.image} alt={puppy.name} />
                         </Link>
                         <p>{puppy.breed}</p>
                         </li>
