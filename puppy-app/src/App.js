@@ -16,7 +16,7 @@ const Home = () => {
 
 function App() {
 return (
-  <Router>
+  <BrowserRouter>
     <div>
       <Navbar />
 
@@ -24,7 +24,7 @@ return (
       <Route path="/puppies" component={PuppyList} />
       <Route path="/puppy/:id" component={PuppyDetails} />
     </div>
-  </Router>
+  </BrowserRouter>
 );
 }
 
