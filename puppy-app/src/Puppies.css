@@ -1,5 +1,6 @@
 ul.paw-print-list {
     list-style-type: none;
+    padding-left: 0;
 }
 
 ul.paw-print-list li {
@@ -15,6 +16,10 @@ ul.paw-print-list li::before {
     transform: translate(-100%, -50%);
     width: 20px;
     height: 20px;
-    background-image: url('https://thenounproject.com/api/private/icons/957037/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0');
+    background-image: url('https://cdn-icons-png.flaticon.com/512/64/64431.png?w=1380&t=st=1688869853~exp=1688870453~hmac=fc559c172f8def2f767a9aa248f6555cd74d3d10548afeb4e6d152e483582d07');
     background-size: cover;
+}
+
+ul.paw-print-list li::marker {
+    display: none;
 }
