@@ -39,7 +39,7 @@ Welcome to Puppy Power! This application allows users to explore a collection of
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to the Puppy App, please follow these steps:
+Contributions are welcome! If you would like to contribute to the Puppy Power App, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/new-feature`.
