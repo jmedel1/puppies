@@ -1,25 +1,5 @@
-ul.paw-print-list {
-    list-style-type: none;
-    padding-left: 0;
-}
-
-ul.paw-print-list li {
-    position: relative;
-    padding-left: 30px;
-}
-
-ul.paw-print-list li::before {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 0;
-    transform: translate(-100%, -50%);
-    width: 20px;
-    height: 20px;
-    background-image: url('https://cdn-icons-png.flaticon.com/512/64/64431.png?w=1380&t=st=1688869853~exp=1688870453~hmac=fc559c172f8def2f767a9aa248f6555cd74d3d10548afeb4e6d152e483582d07');
+body {
+    background-image: url('https://fontawesome.com/social/paw?f=&s=');
     background-size: cover;
-}
-
-ul.paw-print-list li::marker {
-    display: none;
+    background-repeat: no-repeat;
 }
