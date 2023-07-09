@@ -5,7 +5,7 @@ import './Puppies.css';
 function Navbar() {
     const styleTitle = {
         fontWeight: 'bold',
-        fontSize: '50px'
+        fontSize: '40px'
     };
 
     return (

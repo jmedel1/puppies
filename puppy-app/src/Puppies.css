@@ -8,3 +8,7 @@ div > p {
     font-size: 30px;
   }
   
+  body {
+    font-family: 'Your Chosen Cute Font', cursive;
+    color: #ffffff;
+  }
