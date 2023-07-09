@@ -3,6 +3,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./Navbar";
 import PuppyList from "./PuppyList";
 import PuppyDetails from "./PuppyDetails";
+import './Puppies.css';
 
 const Home = () => {
   return (
