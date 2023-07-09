@@ -29,6 +29,12 @@ Welcome to Puppy Power! This application allows users to explore a collection of
 - [Image 4](https://media.istockphoto.com/id/496985576/photo/pekingese-puppies.jpg?s=612x612&w=0&k=20&c=CaMmKFLoK0EWPIwCocdncQ9M1lI00QINgxwusljcsKw=) - Source: Istockphoto
 - [Image 5](https://patchpuppy.com/wp-content/uploads/2023/01/1.HowManyPupsCanAPugHave.jpg) - Source: PatchPuppy
 - [Image 6](https://i0.wp.com/cazaresbulldogs.com/wp-content/uploads/2022/07/DSC_0384-scaled.jpg?fit=2560%2C1702&ssl=1) - Source: Cazaresbulldogs
+- [Image 7](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsxMXhreHFjemp1eWc4MXdoMHlqbWdyemF2OHF2ZmZoMHE0dW0xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEPGknRiEniec/giphy.gif) - Source: Giphy
+- [Image 8](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRxcnY2em9nNWoyMTYxaWF4dnRiOGY0aHR2NGV1bTBoMjE2ODhjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiuapHv98aApBzsQqd/giphy.gif) - Source: Giphy
+- [Image 9](https://media.tenor.com/sWKr-xo2at8AAAAM/crocodile-retreat.gif) - Source: Tenor
+- [Image 10](https://media.tenor.com/sTFc7j1xRJ0AAAAC/doge-dancing-doge.gif) - Source: Tenor
+- [Image 11](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVycmd2MzdoeHp0d2NmYzJzam90NTVpcnVvMG1sNWl1ejlxMW44diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzqJ29VI6NjDxK0/giphy.gif) - Source: Giphy
+
 
 
 ## Contributing
