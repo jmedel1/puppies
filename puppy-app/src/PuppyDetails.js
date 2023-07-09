@@ -37,7 +37,7 @@ function PuppyDetails() {
         name: 'English Bulldog',
         breed: 'English Bulldog',
         description: 'The English Bulldog is a robust and affectionate breed with a distinctive appearance and gentle temperament.',
-        care: 'English Bulldogs require attentive care due to their brachycephalic (short-nosed) nature. Providing a cool environment, regular exercise, and proper grooming is essential. Monitoring their weight, regular veterinary check-ups, and positive reinforcement training contribute to their well-being. With their loyal and friendly nature, English Bulldogs make delightful companions when given the care they need.',
+        care: 'English Bulldogs require attentive care due to their brachycephalic (short-nosed) nature. Creating a cool environment, regular exercise, and proper grooming are essential. Monitoring their weight, scheduling routine vet check-ups, and employing positive reinforcement training contribute to their well-being. With their gentle and affectionate nature, English Bulldogs make excellent companions. Their loyalty, friendly disposition, and love for human companionship make them cherished family members and delightful pets to have by your side.',
         movingPicture: 'https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVycmd2MzdoeHp0d2NmYzJzam90NTVpcnVvMG1sNWl1ejlxMW44diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XflxzqJ29VI6NjDxK0/giphy.gif',
        },
     };
