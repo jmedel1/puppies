@@ -12,7 +12,7 @@ Welcome to Puppy Power! This application allows users to explore a collection of
 ## Installation
 
 1. Clone the repository: `git clone git@github.com:jmedel1/puppies.git`
-2. Navigate to the project directory: `cd puppy-app`
+2. Navigate to the project directory: `cd puppies/puppy-app`
 3. Install the dependencies: `npm install`
 
 ## Usage
