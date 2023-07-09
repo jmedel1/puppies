@@ -9,7 +9,7 @@ function PuppyDetails() {
         name: 'French Bulldog',
         breed: 'French Bulldog Breed',
         description: 'French Bulldogs are known for their affectionate nature and adorable bat-like ears.',
-        movingPicture: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsxMXhreHFjemp1eWc4MXdoMHlqbWdyemF2OHF2ZmZoMHE0dW0xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEPGknRiEniec/giphy.gif',
+        care: 'French Bulldogs require special care due to their brachycephalic (short-nosed) nature. It\'s important to provide them with regular exercise, a balanced diet, and routine veterinary check-ups. Dental care, grooming, and temperature management are also crucial. Training and socialization should start early, and attention should be given to their breathing difficulties. Consulting with a veterinarian for personalized guidance is highly recommended.',        movingPicture: 'https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsxMXhreHFjemp1eWc4MXdoMHlqbWdyemF2OHF2ZmZoMHE0dW0xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEPGknRiEniec/giphy.gif',
     },
         2: {
             name: 'Boston Terrier',
@@ -39,16 +39,13 @@ function PuppyDetails() {
 
     const puppy = puppyData[id];
 
-    if (!puppy) {
-        return <div>Puppy not found!</div>;
-    }
-
     return (
         <div>
             <h2>Puppy Details</h2>
             <h3>{puppy.name}</h3>
             <p>Breed: {puppy.breed}</p>
             <p>{puppy.description}</p>
+            <p>{puppy.care}</p>
             <img src={puppy.movingPicture} alt={puppy.name} />
         </div>
     )
